@@ -3,7 +3,7 @@
 - USAR EL SCRIPT BAJO SU PROPIO RIESGO!
 
 # Credits
-Basado en el script de xeon1989 https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI , si te funciono considera donarle algo en el repo original!
+Basado en el script de [xeon1989](https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI) , si te funciono considera donarle algo en el repo original!
 
 # Probado en los siguientes sistemas de entretenimiento
 
