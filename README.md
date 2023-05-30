@@ -5,6 +5,14 @@
 # Credits
 Basado en el script de xeon1989 https://github.com/xeon1989/Proton-X50-APK-Installer-GKUI , si te funciono considera donarle algo en el repo original!
 
+# Probado en los siguientes sistemas de entretenimiento
+
+| Model del auto | Version del sistema | Funciona?
+| ------------- | ------------- | ------------- |
+| Geometry C 2024 | Content Cell | Si
+
+* Si lo instalaste en tu sistema y funciono por favor haz un PR con el modelo de tu auto!
+
 # Pasos para instalar la modificacion
 1. Obten una llave USB y formateala al formato FAT32
 2. Descarga el [Script de instalacion](https://github.com/iMrLopez/android-auto-carplay-geely/archive/refs/tags/v1.zip).
