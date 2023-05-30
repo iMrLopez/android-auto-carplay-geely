@@ -7,8 +7,8 @@ Basado en el script de xeon1989 https://github.com/xeon1989/Proton-X50-APK-Insta
 
 # Pasos para instalar la modificacion
 1. Obten una llave USB y formateala al formato FAT32
-2. Descarga el [Script de instalacion]() de ES File Explorer.
-3. Extrae los contenidos del archivo zip en la raiz del dispositivo USB que formateaste, se deberia ver algo asi:
+2. Descarga el [Script de instalacion](https://github.com/iMrLopez/android-auto-carplay-geely/archive/refs/tags/v1.zip).
+3. Extrae los contenidos del archivo zip en la raiz del dispositivo USB que formateaste, se deberia ver algo asi (algunas carpetas adicionales incluidas con apps ya probadas):
 
 ![image](https://user-images.githubusercontent.com/17538895/172921723-633a95b0-e1a9-4afc-863a-fb2cf6f0aa0c.png)
 
