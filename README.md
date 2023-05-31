@@ -7,9 +7,10 @@ Basado en el script de [xeon1989](https://github.com/xeon1989/Proton-X50-APK-Ins
 
 # Probado en los siguientes sistemas de entretenimiento
 
-| Model del auto | Version del sistema | Funciona?
-| ------------- | ------------- | ------------- |
-| Geometry C 2024 | Content Cell | Si
+| Model del auto | Funciona?
+| ------------- | ------------- |
+| Geometry C 2024 |  Si
+| Geely Coolray | Si
 
 * Si lo instalaste en tu sistema y funciono por favor haz un PR con el modelo de tu auto!
 
