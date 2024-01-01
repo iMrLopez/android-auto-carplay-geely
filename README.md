@@ -72,6 +72,11 @@ Puede revertir todos los cambios desinstalando y realizando el restablecimiento 
 **P: ¿Cómo instalo la aplicación xxx, yyy o zzz?**
 **R: Sí, tal vez. No todas las apps son compatibles como vemos, hay que probar. Asegúrese de obtener su aplicación de una fuente confiable.**
 
+## 
+**P: Como puedo entrar al modo ingenieria?
+**R: Mucha gente pudo entrar presionando el emblema de geely en la pagina "about" y digitando "jh3280" en el teclado que aparece.
+
+
 ##
 **P: ¡La aplicación xxx no funciona en mi unidad principal!**
 **R: No todas las aplicaciones son compatibles con nuestro sistema de información y entretenimiento (obsoleto). Asegúrese de que su aplicación sea compatible con Android 5.1 y esté optimizada para pantallas horizontales. Es posible que algunas aplicaciones que requieren los servicios de Google tampoco funcionen.**
